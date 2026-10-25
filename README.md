@@ -1,7 +1,7 @@
 # Home-intrusion-Detection
 Home intrusion Detection with YOLO11
 
-Use Google Colab to run the Code.
+Use Google Colab or Jupyter Notebook to run the Code.
 
 Change the path of **data.yaml**
 
